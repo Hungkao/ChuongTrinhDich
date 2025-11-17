@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-# CTDLab
-xin chào
-=======
 Cách biên dịch chương trình (compile)
     gcc index.c -o index
+    
 Cách chạy chương trình
+
 Cú pháp:
     ./index <stopw-file> <input-file> <output-file>
 Ví dụ:
