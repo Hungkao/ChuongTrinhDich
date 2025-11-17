@@ -4,8 +4,10 @@ Cách biên dịch chương trình (compile)
 Cách chạy chương trình
 
 Cú pháp:
+
     ./index <stopw-file> <input-file> <output-file>
 Ví dụ:
+
     ./index stopw.txt vanban.txt output.txt    
 
 Giải thích:
