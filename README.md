@@ -15,7 +15,7 @@ Giải thích:
 
     stopw.txt → file chứa stop words (mỗi dòng 1 từ)
 
-    input.txt → văn bản cần lập chỉ mục
+    vanban.txt → văn bản cần lập chỉ mục
 
     out.txt → tệp kết quả
 
