@@ -1,4 +1,5 @@
 Cách biên dịch chương trình (compile)
+
     gcc index.c -o index
     
 Cách chạy chương trình
