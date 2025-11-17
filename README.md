@@ -8,7 +8,7 @@ Cách chạy chương trình
 Cú pháp:
     ./index <stopw-file> <input-file> <output-file>
 Ví dụ:
-    ./index stopw.txt input.txt output.txt    
+    ./index stopw.txt vanban.txt output.txt    
 
 Giải thích:
 
